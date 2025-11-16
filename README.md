@@ -1,5 +1,5 @@
 <h1 align="center">👋 CELVIN KHUSNUREZA VANESSTAMA</h1>
-### Web Developer | Tech Enthusiast | Learner by Passion
+<h3 align="center">Web Developer | Tech Enthusiast | Passionate Learner</h3>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
@@ -22,18 +22,18 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-Saya <b>Celvin Khusnureza Vanesstama</b>, seorang <b>Web Developer</b> yang fokus dalam membangun website yang modern, fungsional, dan responsif.  
-Saya senang mempelajari hal baru terutama dalam dunia pengembangan web dan teknologi digital.
+My name is <b>Celvin Khusnureza Vanesstama</b>, and I am a <b>Web Developer</b> who focuses on building modern, functional, and responsive websites.  
+I enjoy learning new things, especially in the world of web development and digital technology.
 <br><br>
-- 🔭 Saat ini sedang mengembangkan skill sebagai <b>Fullstack Web Developer</b>  
-- 📚 Sedang mempelajari <b>JavaScript, React, API, dan Backend Development</b>  
-- 🎯 Tujuan: membangun produk digital yang <b>berguna, efisien, dan scalable</b>  
-- ⚡ Fun fact: selalu penasaran & suka eksplor hal baru dalam dunia IT  
+- 🔭 Currently developing my skills as a <b>Fullstack Web Developer</b>  
+- 📚 Learning <b>JavaScript, React, API Integration, and Backend Development</b>  
+- 🎯 Goal: to build digital products that are <b>useful, efficient, and scalable</b>  
+- ⚡ Fun fact: I love exploring new tech and continuously improving my skills  
 </p>
 
 ---
 
-### 🛠 Language & Tools
+### 🛠 Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -64,11 +64,11 @@ Saya senang mempelajari hal baru terutama dalam dunia pengembangan web dan tekno
 
 ### 🚀 Currently Improving
 
-- Frontend Framework (React / Next.js)  
-- Backend (Node.js / PHP)  
+- Frontend Frameworks (React / Next.js)  
+- Backend Development (Node.js / PHP)  
 - UI/UX & Responsive Design  
 
 ---
 
-💬 *Open to collaboration, learning, and building digital solutions.*
+💬 *Open to collaboration, learning, and building meaningful digital solutions.*
 
