@@ -1,4 +1,4 @@
-# 👋 CELVIN KHUSNUREZA VANESSTAMA  
+<h1 align="center">👋 CELVIN KHUSNUREZA VANESSTAMA</h1>
 ### Web Developer | Tech Enthusiast | Learner by Passion
 
 <div align="center">
